@@ -1,0 +1,24 @@
+# chave que assina o app de celular: NUNCA pode ir para o GitHub (quem tiver ela consegue publicar
+# um .apk falso que o celular aceita como atualização do The Hollow). Guarde uma cópia fora do repositório.
+celular/chave/
+*.jks
+*.keystore
+
+# arquivos temporários da montagem do .apk
+celular/build/
+
+# nenhum programa compilado vai para o GitHub (nem no código nem nos Releases): o GitHub pode suspender
+# contas novas que publicam .exe/.apk ligados a Roblox, porque é o mesmo padrão de malware
+*.apk
+*.exe
+*.dll
+*.dex
+*.jar
+*.class
+*.idsig
+
+# coisas do sistema e do editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/

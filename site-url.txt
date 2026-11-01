@@ -1,0 +1,5 @@
+# Endereço do site do The Hollow, usado pelo TheHollow.exe.
+# Quando publicar no GitHub Pages, coloque o endereço na linha de baixo (ex.: https://seu-usuario.github.io/the-hollow/)
+# e salve. Não precisa recompilar o .exe.
+# Sem endereço (ou sem internet), o .exe abre os arquivos desta pasta.
+

@@ -1,0 +1,5 @@
+# Contato público do The Hollow, mostrado nos Termos de Uso e na Política de Privacidade
+# (é por onde as pessoas pedem para apagar a conta ou tiram dúvidas sobre os dados).
+# Coloque na linha de baixo um e-mail (ex.: contato@exemplo.com) ou um link (ex.: https://discord.gg/xxxx) e salve.
+# Depois rode o tools\montar-downloads.ps1 de novo.
+
