@@ -14,7 +14,7 @@
 
 ---
 
-> ## 🏁 v6.0: A MAIOR ATUALIZAÇÃO E A MAIOR CORREÇÃO DE TODO O PROJETO
+~~🏁 v6.0: A MAIOR ATUALIZAÇÃO E A MAIOR CORREÇÃO DE TODO O PROJETO~~      **DESCONTINUADA**
 > A **v6.0** é a versão final e a mais completa de todas. Ela junta **tudo** o que o app já teve, **chega ao
 > celular pela primeira vez** e passou pela **maior revisão de erros da história do projeto**: cada tela, cada
 > botão e cada cargo foram testados um por um, e tudo o que estava quebrado foi consertado.
